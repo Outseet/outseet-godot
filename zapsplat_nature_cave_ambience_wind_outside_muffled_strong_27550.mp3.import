@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zapsplat_nature_cave_ambience_wind_outside_muffled_strong_27550.mp3-142cb742a085b6eefe344bcc261d09df.mp3str"
+
+[deps]
+
+source_file="res://zapsplat_nature_cave_ambience_wind_outside_muffled_strong_27550.mp3"
+dest_files=[ "res://.import/zapsplat_nature_cave_ambience_wind_outside_muffled_strong_27550.mp3-142cb742a085b6eefe344bcc261d09df.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
